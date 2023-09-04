@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    text-align: center;
+    font-size: 20px;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+div img{
+    height: auto;
+    width: 100px;
+}
+
+.outline{
+    background-color: black;
+}
