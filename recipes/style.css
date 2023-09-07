@@ -1,14 +1,35 @@
+div img{
+    height: auto;
+    width: 800px;
+    background-color: black;
+    padding: 5px;
+}
+
+.boxes{
+    background-color: aqua;
+    display:inline-table;
+    height: auto;
+    width: 250px;
+    margin: 4px;
+    padding: 5px;
+}
+
+
 h1{
     text-align: center;
+    padding: 5px;
+    background-color: aqua;
+    width: 800px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-div,p{
-    text-align: center;
+p{
+    text-align: justify;
 }
 
 h2{
-    background-color: black;
+    text-align: center;
+    background-color: blueviolet;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
